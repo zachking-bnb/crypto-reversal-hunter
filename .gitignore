@@ -1,0 +1,4 @@
+# NotebookLM MCP — auth/session local, không commit
+chrome_profile_notebooklm/
+notebooklm-config.json
+notebooklm_profile_export/
